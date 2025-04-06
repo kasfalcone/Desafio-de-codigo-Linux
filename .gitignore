@@ -1,0 +1,19 @@
+# Ignorar arquivos temporários e de sistema
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar histórico de comandos
+.history
+
+# Ignorar arquivos gerados por IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos binários
+*.out
+*.o

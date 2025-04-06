@@ -66,7 +66,7 @@ Este repositório contém um script Bash para **provisionamento automatizado de 
 Clone o repositório e execute o script:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/desafio-de-codigo-linux.git
+git clone https://github.com/kasfalcone/desafio-de-codigo-linux.git
 cd desafio-de-codigo-linux
 sudo ./provisionamento_infra.sh
 
